@@ -1,0 +1,3 @@
+[submodule "lib/Library_KURT"]
+	path = lib/Library_KURT
+	url = https://github.com/kurt9dai/Library_KURT
