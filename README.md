@@ -1,0 +1,4 @@
+# template
+platformIO用のテンプレートです
+
+Cドライブ直下にmbedos5をクローンすれば使えます
