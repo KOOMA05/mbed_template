@@ -6,7 +6,8 @@
         "eamodio.gitlens",
         "mhutchie.git-graph",
         "donjayamanne.githistory",
-        "GitHub.vscode-pull-request-github"
+        "GitHub.vscode-pull-request-github",
+        "alefragnani.project-manager"
     ],
     "unwantedRecommendations": [
         "ms-vscode.cpptools-extension-pack"
